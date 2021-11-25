@@ -2,6 +2,8 @@
 
 > In this project we implemented a class with methods,using TDD.
 
+![screenshot](./Screenshot.png)
+
 ## Built With
 
 - Ruby
