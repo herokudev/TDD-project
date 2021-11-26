@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class Solver
   def factorial(num)
     raise 'Negative integer given' if num.negative?
